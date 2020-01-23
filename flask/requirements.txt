@@ -1,1 +1,2 @@
 FLASK==1.1.1
+Frozen-Flask==0.15
